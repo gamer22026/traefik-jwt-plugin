@@ -14,7 +14,7 @@ import (
 	"testing"
 	"time"
 
-	traefik_jwt_plugin "github.com/team-carepay/traefik-jwt-plugin"
+	traefik_jwt_plugin "github.com/gamer22026/traefik-jwt-plugin"
 )
 
 func TestServeHTTPOK(t *testing.T) {
